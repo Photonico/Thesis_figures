@@ -1,2 +1,3 @@
 # Thesis_figures
-my thesis figures
+
+my PhD thesis figures
